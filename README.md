@@ -11,3 +11,5 @@ To be able to use following terraform module please follow the documentation.
 ``
 terraform init
 
+terraform plan
+
