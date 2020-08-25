@@ -21,4 +21,3 @@ variable "machine_type" {}
 
 
 
-#gdrfa
