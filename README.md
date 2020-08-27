@@ -13,3 +13,7 @@ terraform init
 
 terraform plan
 
+terraform apply 
+
+
+Note: Since Cluster and Nods needs to be created, this pipeline will take longer time to complete.
