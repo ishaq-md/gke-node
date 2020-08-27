@@ -25,7 +25,7 @@ variable "cluster_network" {
   description = "- (Optional) The name or self_link of the Google Compute Engine network to which the cluster is connected. For Shared VPC, set this to the self link of the shared network."
 }
 variable "cluster_name" {
-  default = "gke-cluster"
+  default = "gke-clusternew"
   description = "- (Required) The name of the cluster, unique within the project and location."
 }
 
