@@ -31,7 +31,7 @@ pipeline {
 		 steps {            
                 sh 'terraform init'
                 sh 'terraform plan'
-                sh 'terraform create -auto-approve'
+                sh 'terraform apply -auto-approve'
                              
              
             
